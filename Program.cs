@@ -40,3 +40,29 @@ class Program
         Console.WriteLine($"{celsius}°C é igual a {fahrenheit}°F.");
     }
 }
+
+// 03 - 
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // 1. Solicitando os dados
+        Console.Write("Qual é o seu nome? ");
+        string nome = Console.ReadLine();
+
+        Console.Write("Qual é a sua idade? ");
+        // Convertemos a string lida para um número (int)
+        int idade = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Onde você mora? ");
+        string cidade = Console.ReadLine();
+
+        // 2. Exibindo com Interpolação ($)
+        Console.WriteLine($"Meu nome é {nome}, tenho {idade} anos e moro em {cidade}.");
+
+        // 3. Exibindo com Concatenação (+)
+        Console.WriteLine(" Meu nome é " + nome + ", tenho " + idade + " anos e moro em " + cidade + ".");
+    }
+}
