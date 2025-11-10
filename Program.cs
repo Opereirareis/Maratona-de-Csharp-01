@@ -1,4 +1,4 @@
-//01 - 
+//01 -  Saudação com Nome
 
 using System;
 
@@ -18,7 +18,7 @@ class Program
         Console.WriteLine(saudacao2);
     }
 }
-// 02 - 
+// 02 - Conversão de Temperatura (Celsius para Fahrenheit)
 using System;
 
 class Program
@@ -41,7 +41,8 @@ class Program
     }
 }
 
-// 03 - 
+// 03 - Impressão de Dados do Usuário
+
 using System;
 
 class Program
