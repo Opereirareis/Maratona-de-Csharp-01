@@ -2,7 +2,7 @@
 
 # Exercício/ Maratona-de-C#-01
 
-## 📘 Projeto foi criado com o objetivo de **praticar conceitos básicos de programação em C#**, como:
+## 📘 Projeto criado para **praticar conceitos básicos de programação em C#**;
 
 ### 1️⃣ Saudação com Nome
 
