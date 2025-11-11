@@ -1,0 +1,15 @@
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\bin\Debug\net9.0\MaratonaCSharp.exe
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\bin\Debug\net9.0\MaratonaCSharp.deps.json
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\bin\Debug\net9.0\MaratonaCSharp.runtimeconfig.json
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\bin\Debug\net9.0\MaratonaCSharp.dll
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\bin\Debug\net9.0\MaratonaCSharp.pdb
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.AssemblyInfoInputs.cache
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.AssemblyInfo.cs
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.csproj.CoreCompileInputs.cache
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.sourcelink.json
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.dll
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\refint\MaratonaCSharp.dll
+g:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.pdb
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\MaratonaCSharp.genruntimeconfig.cache
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Maratona-de-Csharp-01\MaratonaCSharp\obj\Debug\net9.0\ref\MaratonaCSharp.dll
