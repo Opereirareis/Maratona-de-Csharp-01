@@ -6,13 +6,7 @@ public class Program
     {
         Console.WriteLine("=== Exercícios de C# ===\n");
 
-        // Chamando cada exercício individualmente
-        SaudacaoComNome();
-        ConversaoTemperatura();
-        ImpressaoDadosUsuario();
-        CalculadoraDesconto();
-        EmprestimoBancario();
-        ConversorMoeda();
+
     }
 
     // 01 - Saudação com Nome
