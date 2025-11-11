@@ -1,97 +1,34 @@
 
 
-# Exercício/ Maratona-de-C#-01
+# Maratona 1 + Versionamento GitHub
 
-## 📘 Projeto criado para **praticar conceitos básicos de programação em C#**;
+Instruções
 
-### 1️⃣ Saudação com Nome
+Instruções – Maratona de Exercícios 01
+Abra o Visual Studio 2022 e, dentro do seu repositório repos, crie um novo projeto chamado maratonaexercicio01
 
-**Objetivo:** Trabalhar concatenação e interpolação de strings.
-**Descrição:** O programa exibe mensagens de boas-vindas personalizadas com base no nome informado.
-**Conceitos:**
+Copie e cole os textos do PDF abaixo como comentários no arquivo.
 
-* Declaração de variáveis
-* Concatenação (`+`)
-* Interpolação de strings (`$"..."`)
+Entre cada exercício, insira sua resposta em C#, conforme solicitado.
 
----
+🕓 Prazo de entrega: até 14h30 do dia 11/11 (próxima aula).
 
-### 2️⃣ Conversão de Temperatura (Celsius → Fahrenheit)
 
-**Objetivo:** Usar variáveis, constantes e operadores matemáticos.
-**Descrição:** Converte uma temperatura em graus Celsius para Fahrenheit usando a fórmula:
 
-```
-Fahrenheit = (Celsius × 9 / 5) + 32
-```
+📤 Entrega:
 
-**Conceitos:**
+Cada estudante deve enviar o link do seu repositório do GitHub, contendo a pasta maratonaexercicio01, individualmente em resposta a esta mensagem.
 
-* Operações matemáticas
-* Uso de constantes (`const`)
-* Exibição formatada
 
----
 
-### 3️⃣ Impressão de Dados do Usuário
+💻 Envio para o GitHub:
 
-**Objetivo:** Praticar entrada de dados e conversão de tipos.
-**Descrição:** Solicita nome, idade e cidade ao usuário e exibe uma frase personalizada com os dados informados.
-**Conceitos:**
+Utilize os comandos Git no Prompt de Comando (cmd) para realizar o commit e o push do seu projeto para o GitHub.
 
-* `Console.ReadLine()`
-* `Convert.ToInt32()`
-* Interpolação de strings
 
----
+https://kau-tech.blogspot.com/2025/11/como-subir-seu-primeiro-arquivo-html-no.html
 
-### 4️⃣ Empréstimo Bancário
 
-**Objetivo:** Cálculos financeiros e uso de variáveis.
-**Descrição:** Calcula o valor total a pagar em um empréstimo com base no valor inicial, taxa de juros e número de parcelas.
-**Fórmula usada:**
+Você pode continuar em casa,  se não tiverem o Visual Studio 2022, use a IDE do site W3Schools para responder os exercícios.
 
-```
-valorFinal = valorEmprestimo * Math.Pow(1 + taxaJuros, numeroParcelas)
-```
-
-**Conceitos:**
-
-* Cálculos exponenciais (`Math.Pow`)
-* Entrada numérica
-* Formatação monetária
-
----
-
-### 5️⃣ Conversor de Moeda
-
-**Objetivo:** Trabalhar operadores e arredondamento.
-**Descrição:** Converte um valor em reais para dólares com base em uma taxa de câmbio informada pelo usuário.
-**Conceitos:**
-
-* Arredondamento com `Math.Round()`
-* Operações com `double`
-* Exibição formatada com 2 casas decimais
-
----
-
-### 6️⃣ Calculadora de Desconto
-
-**Objetivo:** Usar variáveis e operadores matemáticos para resolver cálculos simples.
-**Descrição:** Calcula o valor final de um produto após aplicar uma porcentagem de desconto.
-**Fórmula usada:**
-
-```
-valorDesconto = precoOriginal * (desconto / 100)
-precoFinal = precoOriginal - valorDesconto
-```
-
-**Conceitos:**
-
-* Porcentagem
-* Operações aritméticas
-* Saída formatada
-
----
-
-Quer que eu monte a versão final desse README formatada pra ser **commitada junto com o código (ex: README.md pronto pro GitHub)**?
+https://www.w3schools.com/cs/index.php
